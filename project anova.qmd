@@ -1,6 +1,6 @@
 ---
 title: "FINAL REPORT ANOVA"
-author: "NIKHIL AND MANISH"
+author: "NIKHIL KUMAR"
 format: pdf
 editor: visual
 ---
